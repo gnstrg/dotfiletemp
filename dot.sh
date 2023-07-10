@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt update
 # Baixar e instalar o Ransack
 wget -O ransack.deb "https://example.com/ransack.deb"  # Substitua o link pela URL correta
 sudo dpkg -i ransack.deb
